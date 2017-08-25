@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StudentAppFirebase.Views.StudentDetailPage"
+             xmlns:ViewModels="clr-namespace:StudentAppFirebase.ViewModel;assembly=StudentAppFirebase"
+             xmlns:local="clr-namespace:StudentAppFirebase">
+
+
+    <ContentPage.BindingContext>
+        <ViewModels:StudentDetailViewModel>
+        </ViewModels:StudentDetailViewModel>
+    </ContentPage.BindingContext>
+
+    <ListView ItemsSource="{Binding StudentList}" HasUnevenRows="True">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+
+                    <StackLayout Orientation="Horizontal">
+
+                        <Label Text=" {Binding Name}">
+
+                        </Label>
+
+                        <Label Text=" {Binding Images}">
+
+                        </Label>
+                        <Label Text=" {Binding Videos}">
+
+                        </Label>
+                        <Label Text=" {Binding Feedback}">
+
+                        </Label>
+
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+
+    </ListView>
+
+</ContentPage>

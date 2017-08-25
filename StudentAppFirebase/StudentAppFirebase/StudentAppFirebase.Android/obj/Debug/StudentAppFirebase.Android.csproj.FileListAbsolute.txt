@@ -1,0 +1,114 @@
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android.pdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android.apk
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android-Signed.apk
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\FormsViewGroup.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\FormsViewGroup.pdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\StudentAppFirebase.Android.csprojResolveAssemblyReference.cache
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\StudentAppFirebase.Android.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\StudentAppFirebase.Android.pdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\bin\StudentAppFirebase.Android.apk
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\drawable\icon.png
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\values\styles.xml
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\R.cs.flag
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\uploadflags.txt
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\System.Net.Http.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Newtonsoft.Json.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\System.Reactive.Linq.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\System.Reactive.Core.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\JWT.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\deva\documents\visual studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\crypto.dll
+C:\Users\DEVA\Documents\Visual Studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.pdb
+C:\Users\DEVA\Documents\Visual Studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android.dll.mdb
+C:\Users\DEVA\Documents\Visual Studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\DEVA\Documents\Visual Studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\StudentAppFirebase.Android.dll.mdb
+C:\Users\DEVA\Documents\Visual Studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\DEVA\Documents\Visual Studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\DEVA\Documents\Visual Studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\DEVA\Documents\Visual Studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.dll.mdb
+C:\Users\DEVA\Documents\Visual Studio 2017\Projects\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\StudentAppFirebase.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android.pdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android.apk
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android-Signed.apk
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\FormsViewGroup.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\System.Net.Http.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Newtonsoft.Json.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\System.Reactive.Linq.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\System.Reactive.Core.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\JWT.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\System.Reactive.Interfaces.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\crypto.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.pdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\FormsViewGroup.pdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\StudentAppFirebase.Android.csprojResolveAssemblyReference.cache
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\StudentAppFirebase.Android.dll
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\StudentAppFirebase.Android.pdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\bin\StudentAppFirebase.Android.apk
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\drawable\icon.png
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\layout\tabbar.xml
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\layout\toolbar.xml
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\res\values\styles.xml
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\R.cs.flag
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\uploadflags.txt
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\bin\Debug\StudentAppFirebase.Android.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\StudentAppFirebase.Android.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\StudentAppFirebase.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Rapidd\mobileapp\StudentAppFirebase\StudentAppFirebase\StudentAppFirebase.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
